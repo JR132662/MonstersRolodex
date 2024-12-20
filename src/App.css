@@ -1,3 +1,13 @@
+* {
+  background-color: #282c34;
+}
+
+
+h1 {
+  color: #fff;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .App {
   text-align: center;
 }
